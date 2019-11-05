@@ -3,21 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="660f98a3-67eb-4871-b36a-7f9131774783" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/trading.cto" beforeDir="false" afterPath="$PROJECT_DIR$/models/trading.cto" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>toString</find>
-    </findStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,6 +55,8 @@
       <workItem from="1569673445794" duration="1384000" />
       <workItem from="1569930524050" duration="2690000" />
       <workItem from="1570697299832" duration="3446000" />
+      <workItem from="1570882749606" duration="1276000" />
+      <workItem from="1571460778992" duration="220000" />
     </task>
     <servers />
   </component>
