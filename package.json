@@ -3,7 +3,7 @@
     "composer": "^0.20.0"
   },
   "name": "anoubis-network",
-  "version": "0.3.5-deploy.0",
+  "version": "0.3.6-deploy.0",
   "description": "Anoubis Hyperledger Fabric Network",
   "networkImage": "https://hyperledger.github.io/composer-sample-networks/packages/trade-network/networkimage.svg",
   "networkImageanimated": "https://hyperledger.github.io/composer-sample-networks/packages/trade-network/networkimageanimated.svg",
