@@ -1,6 +1,7 @@
 namespace com.anoubis
 
-asset Collection identified by collectionName {
+asset Collection identified by collectionID {
+  o String collectionID
   o String collectionName
   o String[] subCollectionIDs
   o Integer totalAmount
